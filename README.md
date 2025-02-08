@@ -1,8 +1,10 @@
 <h2 align="left">Hi 👋! My name is Mostafa Mahmoud and I'm a UI / UX Designer from Cairo</h2>
 
 ###
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
